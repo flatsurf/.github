@@ -7,3 +7,7 @@ The flatsurf software suite is a collection of mathematical software libraries t
 * [intervalxt](https://github.com/flatsurf/intervalxt/) for [interval exchange transformations](https://en.wikipedia.org/wiki/Interval_exchange_transformation),
 * [flatsurf](https://github.com/flatsurf/flatsurf/), [surface-dynamics](https://flatsurf.github.io/surface-dynamics/), [sage-flatsurf](https://flatsurf.github.io/sage-flatsurf) for translation surfaces, and
 * [vue-flatsurf](https://github.com/flatsurf/vue-flatsurf), [ipyvue-flatsurf](https://github.com/flatsurf/ipyvue-flatsurf) for visualization.
+
+### Installation
+
+Please follow the instructions in our [documentation](https://flatsurf.github.io/sage-flatsurf/#installation).
