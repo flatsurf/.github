@@ -5,7 +5,8 @@ The flatsurf software suite is a collection of mathematical software libraries t
 * [e-antic](https://flatsurf.github.io/e-antic/libeantic/) for real embedded number fields,
 * [exact-real](https://github.com/flatsurf/exact-real/) for exact real numbers,
 * [intervalxt](https://github.com/flatsurf/intervalxt/) for [interval exchange transformations](https://en.wikipedia.org/wiki/Interval_exchange_transformation),
-* [flatsurf](https://github.com/flatsurf/flatsurf/), [surface-dynamics](https://flatsurf.github.io/surface-dynamics/), [sage-flatsurf](https://flatsurf.github.io/sage-flatsurf), [veerer](https://flatsurf.github.io/veerer) for translation surfaces, and
+* [flatsurf](https://github.com/flatsurf/flatsurf/), [surface-dynamics](https://flatsurf.github.io/surface-dynamics/), [sage-flatsurf](https://flatsurf.github.io/sage-flatsurf) for translation surfaces,
+* [veerer](https://flatsurf.github.io/veerer/) veering triangulations of surfaces and their flat structures, and
 * [vue-flatsurf](https://github.com/flatsurf/vue-flatsurf), [ipyvue-flatsurf](https://github.com/flatsurf/ipyvue-flatsurf) for visualization.
 
 ### Installation
