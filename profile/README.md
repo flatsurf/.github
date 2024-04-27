@@ -11,7 +11,7 @@ The flatsurf software suite is a collection of mathematical software libraries t
 
 ### A Tour of the flatsurf suite
 
-For an overview of the features of the flatsurf suite, please check [this section](https://flatsurf.github.io/sage-flatsurf/examples/tour) of the sage-flatsurf documentation.
+For an overview of the features of the flatsurf suite, please have a look at [this section](https://flatsurf.github.io/sage-flatsurf/examples/tour) of the sage-flatsurf documentation.
 
 ### Installation
 
